@@ -5,7 +5,7 @@
 
 <div id="socials" align="center">
 
-[![TG](https://shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yudiplease)
+[![TG](https://shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pleshev_ilya)
 [![VK](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/darkhaunt)
 [![Youtube](https://img.shields.io/badge/youtube-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCytEtpIvomjiTMNOoXlOSQQ)
 [![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/315915770330611712)
